@@ -1,0 +1,15 @@
+#Space Invaders
+
+##Overview
+Space Invaders is a classic arcade-style shooting game built using Python and Pygame. In this game, you control a spaceship (the Earth's protector) tasked with defending the planet from waves of invading aliens. Shoot down the alien fleet before they reach Earth, avoid their attacks, and aim for the highest score!
+
+##GamePlay
+**Objective**: Destroy all alien invaders by shooting them with your spaceship's laser.
+**Controls**:
+Move left/right using the arrow keys.
+Fire lasers with the spacebar.
+**Features**:
+Score tracking for every alien destroyed.
+Game over screen when aliens reach Earth or destroy your spaceship.
+**Inspiration**: Based on the iconic 1978 arcade game Space Invaders by Taito.
+
